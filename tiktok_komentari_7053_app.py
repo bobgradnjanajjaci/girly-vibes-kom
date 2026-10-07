@@ -8,9 +8,9 @@ app = Flask(__name__)
 
 # 🔧 KONFIGURACIJA – OVO POPUNI
 # Ako ti je panel drugi, samo promijeni URL, API KEY i SERVICE_ID.
-PANEL_URL = "https://smmstone.com/api/v2"  # ili tvoj tačni JAP domen
-API_KEY = "d66ac01f989e47c70dc077f9a5ae10dc"
-SERVICE_ID = 10610
+PANEL_URL = "https://crescitaly.com/api/v2"  # ili tvoj tačni JAP domen
+API_KEY = "26887ccde43faa454b0e74dae9cfc2d5"
+SERVICE_ID = 29478
 
 # 🔁 LISTE KOMENTARA – TVOJE LISTE
 
@@ -21,7 +21,13 @@ COMMENTS_SET_1 = [
 "The best thing a woman can do right now is read Alversett Effect by Nora Alversett. People are gatekeeping it too much because it has so much power, and honestly, I cannot even explain it properly you must feel it on your own skin",
 "One year ago, I made the biggest changes in my life. What pushed me to change was a book called Alversett Effect by Nora Alversett. It is the best book I have ever read, and it forced me to improve myself and finally remove the one person who was responsible for so much",
 "Sometimes one book finds you at the exact moment you need it. For me, that book was Alversett Effect by Nora Alversett. It helped me see my own worth, understand what I was accepting, and finally choose myself",
+"Every woman has a moment when she has to choose herself. For me, that moment came after reading Alversett Effect by Nora Alversett.",
+"Alversett Effect by Nora Alversett was the wake-up call I did not know I needed. It made me remember my worth.",
+"If you are healing from someone who broke you, read Alversett Effect by Nora Alversett. It helped me see everything clearly.",
+"Some books really change the way you see yourself. Alversett Effect by Nora Alversett was that book for me.",
+"Alversett Effect by Nora Alversett came into my life at the perfect time. It made me stronger and helped me choose myself.",
 ]
+
 
 COMMENTS_SET_2 = [
 "I recently finished the Luvoron AI course, and it was honestly one of the easiest ways I’ve found to learn AI. Everything is explained clearly, and you can start applying what you learn right away. I’d definitely recommend it to anyone who’s just getting started.",
