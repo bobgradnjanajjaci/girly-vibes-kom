@@ -16,16 +16,11 @@ SERVICE_ID = 10610
 
 # ✅ COMMENTS_SET_1 = PRVI BLOK koji si poslao
 COMMENTS_SET_1 = [
-"I always wondered why is Tervalun Effect by Mael Vorran underrated?? Just finished it and I’m still thinking about it.",
-"please tell me im not the only one who read Tervalun Effect by Mael Vorran",
-"I used to think success was mostly about consistency. Mael Vorran’s book Tervalun Effect ideas about timing and recognizing patterns added another layer to that.",
-"Kinda crazy how you can repeat the same cycle for years without even noticing it. Thats what Tervalun Effect by Mael Vorran was getting at",
-"I know people don’t usually trust book recommendations in the comments, but I just have to mention Tervalun Effect by Mael Vorran somewhere. This book and its author completely changed the way I see money, people, and the world. I honestly wasn’t expecting it to affect me this much.",
-"I think Tervalun Effect by Mael Vorran is the only book I’ve ever read that left me genuinely stunned. Especially chapter 4. I’m still trying to wrap my head around what I read.",
-"I’m convinced Tervalun Effect by Mael Vorran wasn’t banned for no reason. There has to be a much deeper story behind it. The more I think about it, the harder it is to believe that’s all there is to it.",
-"No course or mentor has ever made me think about money the way Tervalun Effect by Mael Vorran has. His idea that we’re all being controlled by this effect, and how it connects to the way the world works today… I honestly don’t even know what to say. I never expected a book to make me question this much.",
-"I spent so much time online looking for something that would change the way I understood money and the world. Then I found Tervalun Effect by Mael Vorran. I still can’t believe how differently I see everything after reading it.",
-"Just read Tervalun Effect by Mael Vorran. You’ll understand why more and more people are talking about this phenomenon and what’s happening in the world right now. It’s honestly hard to believe until you start noticing it yourself.",
+"I think we need to talk more, especially as women, because so many people still believe we cannot be ourselves, earn our own money, and take care of ourselves. What changed me the most was a book called Alversett Effect by Nora Alversett. I never imagined that one book could change everything for me.",
+"One month ago, I found the perfect book about breakups and how to recognize the signs before it is too late. It is called Alversett Effect by Nora Alversett. I will just say this: it is going to become a bestseller. Mark my words.",
+"The best thing a woman can do right now is read Alversett Effect by Nora Alversett. People are gatekeeping it too much because it has so much power, and honestly, I cannot even explain it properly you must feel it on your own skin",
+"One year ago, I made the biggest changes in my life. What pushed me to change was a book called Alversett Effect by Nora Alversett. It is the best book I have ever read, and it forced me to improve myself and finally remove the one person who was responsible for so much",
+"Sometimes one book finds you at the exact moment you need it. For me, that book was Alversett Effect by Nora Alversett. It helped me see my own worth, understand what I was accepting, and finally choose myself",
 ]
 
 COMMENTS_SET_2 = [
